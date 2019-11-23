@@ -3,4 +3,4 @@ create line2
 create line3
 
 
-vm add newline
+vm add newline append text
